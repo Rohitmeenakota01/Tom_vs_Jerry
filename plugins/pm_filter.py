@@ -845,7 +845,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/Tom_vs_Jerry_Movie'),
+	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/Jerry_Movies'),
         ] 
     )
 
@@ -1073,7 +1073,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         ])
         btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/Tom_vs_Jerry_Movie'),
+	    InlineKeyboardButton(text="⚡ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⚡", url='https://telegram.me/Jerry_Movies'),
         ])
 
         if offset != "":
